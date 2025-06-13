@@ -1,6 +1,6 @@
 # supermarket_data_analysis
 
-# Unguined analytics project executed with pure imagination
+# Unguided analytics project executed with pure imagination
 
 Ever wonder what happens to all that data generated when you shop at a supermarket? I built a data analysis project to explore exactly that!
 
